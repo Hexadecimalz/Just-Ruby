@@ -35,7 +35,7 @@ Install Ruby extension, Code Runner extension. Optional VSCode Ruby.
 - [Toggle Zen Mode](https://techstacker.com/vscode-toggle-zen-mode/) 
   - `Control + Shift + P` 
 
-  ** 👟  VSCode Shortcuts **
+  **👟  VSCode Shortcuts**
 - Run Code: `Control + Alt + N` 
 - Comment out a selection of code with `Control + /` 
 - Collapse file bar `Control + B`
@@ -48,7 +48,6 @@ When run this will work on the present directory in the terminal.
 gem install rubocop
 rubocop
 ``` 
-
 
 ## 🏫 Courses 
 - [Ruby Programming Language - Full Course](https://www.youtube.com/watch?v=t_ispmWmdjY)

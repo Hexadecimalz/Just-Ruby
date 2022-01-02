@@ -52,7 +52,7 @@ class Timer
 end
 
 def run_timer
-    # system "clear"
+    system "clear"
     puts "Please enter focus time in minutes"
     focus_time = $stdin.gets(chomp: true)
     focus_time.to_i
